@@ -13,3 +13,4 @@ D:\Coding\C#\People\obj\Debug\net8.0\refint\People.dll
 D:\Coding\C#\People\obj\Debug\net8.0\People.pdb
 D:\Coding\C#\People\obj\Debug\net8.0\People.genruntimeconfig.cache
 D:\Coding\C#\People\obj\Debug\net8.0\ref\People.dll
+D:\Coding\C#\People\obj\Debug\net8.0\People.sourcelink.json
