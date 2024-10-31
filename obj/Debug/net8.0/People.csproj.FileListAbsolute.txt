@@ -1,0 +1,15 @@
+D:\Coding\C#\People\bin\Debug\net8.0\People.exe
+D:\Coding\C#\People\bin\Debug\net8.0\People.txt
+D:\Coding\C#\People\bin\Debug\net8.0\People.deps.json
+D:\Coding\C#\People\bin\Debug\net8.0\People.runtimeconfig.json
+D:\Coding\C#\People\bin\Debug\net8.0\People.dll
+D:\Coding\C#\People\bin\Debug\net8.0\People.pdb
+D:\Coding\C#\People\obj\Debug\net8.0\People.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\C#\People\obj\Debug\net8.0\People.AssemblyInfoInputs.cache
+D:\Coding\C#\People\obj\Debug\net8.0\People.AssemblyInfo.cs
+D:\Coding\C#\People\obj\Debug\net8.0\People.csproj.CoreCompileInputs.cache
+D:\Coding\C#\People\obj\Debug\net8.0\People.dll
+D:\Coding\C#\People\obj\Debug\net8.0\refint\People.dll
+D:\Coding\C#\People\obj\Debug\net8.0\People.pdb
+D:\Coding\C#\People\obj\Debug\net8.0\People.genruntimeconfig.cache
+D:\Coding\C#\People\obj\Debug\net8.0\ref\People.dll
